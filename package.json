@@ -1,16 +1,19 @@
 {
   "name": "video-player-backend",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "backend for a video player website",
+  "type": "module",
+  "license": "ISC",
+  "author": "mintdexdev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "keywords": [
     "backend",
     "javascript"
   ],
-  "license": "ISC",
-  "author": "mintdexdev",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
