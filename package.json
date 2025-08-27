@@ -1,0 +1,16 @@
+{
+  "name": "video-player-backend",
+  "version": "1.0.0",
+  "description": "backend for a video player website",
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "mintdexdev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
