@@ -1,5 +1,5 @@
 {
-  "name": "videoTube-backend",
+  "name": "videotube-backend",
   "version": "0.0.1",
   "description": "backend for a video player website",
   "type": "module",
